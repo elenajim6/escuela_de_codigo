@@ -1,10 +1,10 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 
+NUMEROS ENTEROS : 4,567,89,23,13
 
-NUMEROS DECIMALES: 
+NUMEROS DECIMALES: 12.0
 
-CARACTER : 
+CARACTER : c,f,h,k
 
-CADENA DE CARACTERES : 
+CADENA DE CARACTERES : hola, adios, mañana 
