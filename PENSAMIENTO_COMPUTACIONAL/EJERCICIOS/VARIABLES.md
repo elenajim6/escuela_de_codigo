@@ -17,6 +17,4 @@ boolean, variable logica
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 flotante, de tipo numerica
-
-
 [Regresar al menu princiopal](https://github.com/escuelaDeCodigoMargaritaMaza/escuela_de_codigo/tree/main/PENSAMIENTO_COMPUTACIONAL)
