@@ -25,8 +25,8 @@ Inicio
 Fin
 
 
-![image](https://user-images.githubusercontent.com/101816484/160942884-6e6696e8-9807-4aa4-a160-d5ba32efb7f0.png)
-![image](https://user-images.githubusercontent.com/101816484/160942486-e6d70176-581f-4671-88f7-0cbb964dca70.png)
+![image](https://user-images.githubusercontent.com/101816484/161402621-293ae79e-da54-45de-871c-b88b018aff59.png)
+![image](https://user-images.githubusercontent.com/101816484/161402626-b967f36a-7086-433e-8a89-e64b6362d1c7.png)
 
 Ingresa al siguiente link para el resumen final
 
